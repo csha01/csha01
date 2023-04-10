@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csha01
-- 👀 I’m interested in Deployment and Operations in Software Development Life Cycle.
-- 🌱 I’m currently learning tools and technologies related to DevOps(Git/GitHub, jenkins, Docker , kubernetes, Cloud Services, Linux, CI/CD)
-- 💞️ I have some exposure to cloud and CI/CD Jenkins , monitoring and other deployment activities.
+- 👀 I’m interested in UI automation using Java and Selenium
+- 🌱 I’m currently working in a reputed MNC in a banking domain using provar automation tool with java and selenium at backend.
+- 💞️ I have some exposure to cloud and CI/CD Jenkins , monitoring and other deployment activities with Google cloud platform.
 - 📫 You can reach me at chitransh.1994@gmail.com
 
 <!---
