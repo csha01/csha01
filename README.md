@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @csha01
-- 👀 I’m interested in UI automation using Java and Selenium
-- 🌱 I’m currently working in a reputed MNC in a banking domain using provar automation tool with java and selenium at backend.
-- 💞️ I have some exposure to cloud and CI/CD Jenkins , monitoring and other deployment activities with Google cloud platform.
+- 👋 Hi, I’m Chitransh Sharma.
+- 👀 I’m a QA Analyst with experience in Manual and Automation Testing. 
+- 🌱 I’m currently working in a reputed MNC handling automation of a salesforce application.
+- 💞️ I have  exposure to cloud and CI/CD Jenkins , monitoring and other deployment activities with Google cloud platform.
 - 📫 You can reach me at chitransh.1994@gmail.com
 
 <!---
